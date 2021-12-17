@@ -1,6 +1,6 @@
 # README - Verifying Non-Interference Properties For Software Patches
 
-##UofM -Task III AMP Challenge Problem 6
+## UofM -Task III AMP Challenge Problem 6
 
 
 This README will help guide you through running this tool and additonally provides an explanation about using this tool for Challenge Problem 6
